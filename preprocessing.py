@@ -13,7 +13,6 @@ import os
 
 # =========================
 # 3. Set dataset folder path
-# Change this to your folder in Drive
 # Example: /content/drive/MyDrive/movie_dataset
 # =========================
 data_path = "/content/drive/MyDrive/movie_dataset"
